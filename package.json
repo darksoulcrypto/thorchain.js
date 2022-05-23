@@ -38,7 +38,6 @@
     "bitcoinjs-lib": "^5.2.0",
     "cosmos-client": "^0.39.2",
     "ethers": "^5.0.30",
-    "midgard-sdk": "^1.0.0",
     "tiny-invariant": "^1.1.0"
   },
   "devDependencies": {
